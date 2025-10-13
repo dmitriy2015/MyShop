@@ -24,3 +24,10 @@ H:\MyShop\src\CatalogService\obj\Debug\net8.0\refint\CatalogService.dll
 H:\MyShop\src\CatalogService\obj\Debug\net8.0\CatalogService.pdb
 H:\MyShop\src\CatalogService\obj\Debug\net8.0\CatalogService.genruntimeconfig.cache
 H:\MyShop\src\CatalogService\obj\Debug\net8.0\ref\CatalogService.dll
+H:\MyShop\src\CatalogService\bin\Debug\net8.0\Microsoft.OpenApi.dll
+H:\MyShop\src\CatalogService\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+H:\MyShop\src\CatalogService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+H:\MyShop\src\CatalogService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+H:\MyShop\src\CatalogService\obj\Debug\net8.0\CatalogService.csproj.AssemblyReference.cache
+H:\MyShop\src\CatalogService\obj\Debug\net8.0\CatalogService.MvcApplicationPartsAssemblyInfo.cs
+H:\MyShop\src\CatalogService\obj\Debug\net8.0\CatalogS.249EB8DB.Up2Date
